@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+  }
+
+.zoom {
+    padding: 50px;
+    background-color: lightcyan;
+    /* width: 200px; */
+    height: 200px;
+    text-align: center;
+}
