@@ -1,7 +1,20 @@
+@font-face {
+  font-family: JetBrains-Medium;
+  src: url(JetBrainsMono-Medium.ttf);
+}
+
+@font-face {
+  font-family: JetBrains-Bold;
+  src: url(JetBrainsMonoNL-ExtraBold.ttf);
+}
+
 body {
   background-color: white;
-  /* change font later */
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: JetBrains-Medium;
+}
+
+h1 {
+  font-family: JetBrains-Bold;
 }
 
 .centralButton {
