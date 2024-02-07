@@ -1,1 +1,1 @@
-[ryichi.github.io](ryichi.github.io)
+[ryichie.github.io](https://ryichie.github.io)
